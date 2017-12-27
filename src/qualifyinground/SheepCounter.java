@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 /**
- * SheepCounter question from Google Code Jam 2015.
+ * SheepCounter question from Google Code Jam 2016.
  *
  * @author Roland Dominic Au 
  * @version 2017
